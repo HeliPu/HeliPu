@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Heli Pudas
+<h2>👋 Hi, I’m Heli Pudas</h2>
 
 - 🌱 I’m currently learning
    - C# objectprogramming
@@ -8,7 +8,9 @@
 - <span style='font-size:100px;'>&#9201;</span> I’m currently working on Assistant Store Manager 
 - 📫<a href="https://www.linkedin.com/in/heli-pudas-b48785226/">
   <i class="fab fa-linkedin"></i> Connect with me on LinkedIn
+- <a href="mailto:heli.pudas@hotmail.com" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
 </a>
+
 
 <!---
 HeliPu/HeliPu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
