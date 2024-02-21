@@ -1,7 +1,9 @@
-
+<style>
 body {
     background-color: #f0f0f0;
 }
+</style>
+
 
 <h3>👋 Hi, I’m Heli Pudas</h3>
 
