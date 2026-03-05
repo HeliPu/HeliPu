@@ -15,7 +15,7 @@ Vastaan keskitetysti 66 myymälän tavaravirroista ja saatavuudesta. Työni on s
 * **Ennustaminen ja analytiikka:** Seuraan jatkuvasti myyntilukuja ja saatavuutta. Teen viikoittaisia ennustekorjauksia **Relex**-toiminnanohjausjärjestelmässä.
 * **Sidosryhmäviestintä:** Toimin aktiivisena linkkinä pääkonttorin ostoryhmien, kampanjatiimin ja myymäläkentän välillä. Tiedustelen kentän tilannekuvaa ja sovitan sen yhteen keskitetyn suunnitelman kanssa.
 * **Prosessien kehittäminen:** Luon tilausapulistoja helpottamaan myymälöiden operatiivista toimintaa ja tehostamaan tilausprosesseja.
-* **Järjestelmäosaaminen:** Päivittäisinä työkaluina **Relex**, **WFM** ja **MS Office 365** (erityisesti edistynyt Excel).
+* **Järjestelmäosaaminen:** Päivittäisinä työkaluina **Relex**, **WFM** , **MS Office 365** ja **Google**.
 
 ---
 
@@ -25,8 +25,8 @@ ICT-insinööriopintojeni ansiosta otan uudet tietojärjestelmät (kuten SAP) ha
 
 * **Ohjelmointi & Datatyökalut:** Python, C#, SQL (MySQL), GitHub/GitLab
 * **Web-kehitys:** React, HTML/CSS, Figma, Javascript
-* **Toiminnanohjaus:** Relex, WFM (valmius siirtyä sujuvasti SAP-ympäristöön)
-* **Kielet:** Suomi (erinomainen), Englanti (sujuva työkieli)
+* **Toiminnanohjaus:** Relex, WFM, FVM (valmius siirtyä sujuvasti SAP-ympäristöön)
+* **Kielet:** Suomi (erinomainen), Englanti (hyvä)
 
 ---
 
